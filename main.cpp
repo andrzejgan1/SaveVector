@@ -8,9 +8,9 @@ int main() {
   std::vector<std::string> test;
 std::string name;
   example.push_back("this");
-  example.push_back("is");
-  example.push_back("a");
-  example.push_back("test");
+//  example.push_back("is");
+//  example.push_back("a");
+//  example.push_back("test");
 
   std::ifstream dataFile("./example.txt");
 //  std::istream_iterator<std::string> intput_iterator(input_file, "\n");
